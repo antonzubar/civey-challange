@@ -1,3 +1,6 @@
 {
-    "integrationFolder": "cypress/tests/"
+    "env": {
+        "baseUrl": "https://civey.com"
+    },
+    "integrationFolder": "cypress/all-tests/"
 }
