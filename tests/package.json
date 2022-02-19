@@ -1,0 +1,14 @@
+{
+  "name": "civey-tests",
+  "description": "Cypress tests for civey.com web page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --browser chrome --headless",
+    "cy:verify": "cypress verify"
+  },
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  }
+}
