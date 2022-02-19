@@ -13,6 +13,7 @@
     - how often task goes back to In Progress from QA"				
 2. Gather with the team and decide paint point. Introduce/propose metrcis  based on 1 and agree to follow them				
 3. Gather team and decide on the first techniques which team will try out:
+    #### Feature level:
     - Focus testers on high risk (developers test themselves and ask help if needed)
     - Create pre-development testing notes (QA only creates notes about what to test, which types of bugs to expect - developer actualy creates and run tests)
     - QA kick off (QA and DEV pairs together and brainstorm about what to test, what to focus on, which types of bugs are expected)
@@ -25,10 +26,10 @@
     - Risk storming or War room with postmortem (group analysis of risks and hot to mitigate them)
     - Dogfooding (use feature internally before your users)
     - Internal testing or Fresh blood testing (group of people which are rarely involved into testing or newcomers group)
-    ### Product level:   
+    #### Product level:   
     - Bug reviews
     - Testing tours 
-    ### Organization level:
+    #### Organization level:
     - Fixit days
     - Rotate QA across the teams
     - Testing fair (QA demo new tools, ideas, approaches)				
