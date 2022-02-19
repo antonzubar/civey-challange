@@ -1,7 +1,7 @@
 # civey-challange
 This repository is for the challenge at civey.com
 
-# Smoke Test Suite and Test Specification
+## Smoke Test Suite and Test Specification
 All the test documentation is located at *test_cases* folder.
 
 ## Automation
